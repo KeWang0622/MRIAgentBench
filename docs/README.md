@@ -10,6 +10,7 @@
 | Compare a skill library | [Evaluate your skills](EVALUATE-YOUR-SKILLS.md) |
 | Read the current study | [Results](RESULTS.md) and [protocol/provenance](OFFLINE-RESULTS.md) |
 | Understand evaluation rules | [Protocol](PROTOCOL.md) |
+| Help design evaluations of scientific discovery | [Research direction](RESEARCH-DISCOVERY.md) and [challenge brief](templates/research-challenge.md) |
 | Understand dataset construction and limits | [Datasheet](../DATASHEET.md) |
 | Add or review a task | [Task contribution](CONTRIBUTING-FAMILY.md) and [review protocol](REVIEW-PROTOCOL.md) |
 | Work on the software | [Contributing](../CONTRIBUTING.md) and [agent/developer instructions](../AGENTS.md) |
