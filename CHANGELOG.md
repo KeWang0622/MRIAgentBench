@@ -6,6 +6,10 @@ needs agents to be rerun is a major version.
 
 ## Unreleased
 
+- Describe a prospective AI-for-science evaluation of MRI method improvement and scientific discovery, with a research
+  challenge brief, matched-budget comparisons, independent validation and explicit tests of memory reuse. This is a
+  design proposal; current tasks, scoring, submission formats and reported results are unchanged.
+
 - Use the approved MRFoundry MRI mascot in the site navigation, favicons, social preview and README banner.
   Keep benchmark content, task packages and frozen results unchanged.
 

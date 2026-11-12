@@ -41,3 +41,14 @@ against the source below. Checked 1 November 2026.
 | HealthAgentBench: 75 agentic healthcare tasks across 9 categories, binary success criteria | [arXiv:2606.31179](https://arxiv.org/abs/2606.31179) |
 | BCER Agent: long-horizon MRI workflow execution on brain, prostate and cardiac tasks | [arXiv:2605.29163](https://arxiv.org/abs/2605.29163) |
 | BetterBench: 46 best practices across the benchmark lifecycle, 24 benchmarks assessed | [arXiv:2411.12990](https://arxiv.org/abs/2411.12990) |
+
+## Scientific-discovery evaluation design
+
+The following sources were checked on 12 November 2026. They inform the proposed design in
+[RESEARCH-DISCOVERY.md](RESEARCH-DISCOVERY.md); they do not validate MRI Agent Bench's own discovery capabilities.
+
+| Statement | Primary source |
+|---|---|
+| AlphaEvolve combines language-model code proposals, automated evaluators and evolutionary search | [Novikov et al., AlphaEvolve (2025)](https://arxiv.org/abs/2506.13131) |
+| Co-Scientist generates and refines hypotheses from researcher goals and prior evidence, with experimental validation in selected biomedical applications | [Gottweis et al., Accelerating scientific discovery with Co-Scientist, Nature (2026)](https://www.nature.com/articles/s41586-026-10644-y) |
+| PaperBench evaluates replication of published AI research using detailed, expert-developed task rubrics | [Starace et al., PaperBench (2025)](https://arxiv.org/abs/2504.01848) |

@@ -14,6 +14,9 @@
 - Repeated-run reliability and human baselines with a prespecified protocol.
 - A maintainer-operated hidden evaluation service, with hash commitments before runs and a declared release policy.
 - An archival DOI and additional data mirrors.
+- A prospective research evaluation: compare new MRI methods with strong baselines, then assess candidate discoveries
+  through expert review and independent replication. The [design proposal](RESEARCH-DISCOVERY.md) and
+  [challenge brief](templates/research-challenge.md) define the evidence required before a pilot can begin.
 
 These are plans, not completed validation or advertised service guarantees. Hard task definitions, seeds, graders,
 solutions, traces and per-task results remain outside the public repository.

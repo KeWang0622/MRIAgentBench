@@ -12,8 +12,13 @@
 Tasks ask agents to design pulse sequences, reconstruct images, estimate tissue properties, analyze studies, or write
 conclusions supported by data. Graders check the submitted files by simulation, rerunning code, and recomputing results.
 
+Our broader goal is to measure how agents help researchers develop better MRI methods and answer new scientific
+questions. Core and Hard establish evidence of workflow execution. The proposed
+[research and discovery direction](docs/RESEARCH-DISCOVERY.md) extends this foundation to method improvement and
+new findings, assessed through strong baselines, expert review and independent validation.
+
 [Task guide](docs/TASKS.md) · [Run a task](docs/GETTING-STARTED.md) · [Submit results](docs/SUBMITTING.md) ·
-[Results](docs/RESULTS.md) · [Website](https://kewang0622.github.io/MRIAgentBench/)
+[Results](docs/RESULTS.md) · [Research direction](docs/RESEARCH-DISCOVERY.md) · [Website](https://kewang0622.github.io/MRIAgentBench/)
 
 ## What are the tasks?
 
